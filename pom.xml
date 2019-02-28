@@ -4,7 +4,7 @@
   <groupId>com.skTechnologies</groupId>
   <artifactId>SK-Tech</artifactId>
   <packaging>war</packaging>
-  <version>1.0-${BUILD_NUMBER}-SNAPSHOT</version>
+  <version>1.0-SNAPSHOT</version>
   <name>SK-Tech Maven Webapp</name>
   <url>http://maven.apache.org</url>
    <organization>
