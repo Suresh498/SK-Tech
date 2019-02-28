@@ -22,6 +22,11 @@
             <name>Developer 2</name>
             <email>developer2@email.com</email>
         </developer>
+	<developer>
+            <id>dev3</id>
+            <name>Mahesh</name>
+            <email>Mahesh@email.com</email>
+        </developer>
     </developers>
   
   <dependencies>
